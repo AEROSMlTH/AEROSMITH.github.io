@@ -1,6 +1,8 @@
-section {
-    text-align: center;
-}
 body {
-    background-color: rgba(22, 61, 189, 0.726);
+    background: radial-gradient(circle,blue, rgb(3, 161, 252))
+}
+
+.info , .nome {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: ;
 }
