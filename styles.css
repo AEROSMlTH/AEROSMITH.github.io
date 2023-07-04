@@ -3,5 +3,11 @@ body {
 }
 
 .me{
+    border: .5vw solid #000000;
+    display: flex;
     justify-content: center;
+}
+
+.Container1{
+    border: .5vw solid #000000;
 }
